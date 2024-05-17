@@ -1,0 +1,8 @@
+Name: Kiet Tuan Lam
+ID: 20909802
+
+File: mssv.c, solutionValid.txt, solutionInvalid.
+
+How to compile
+gcc mssv.c -o mssv
+./mssv solutionValid.txt 1
